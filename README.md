@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I'm an aspiring full-stack web developer
-- 🌱 I’m currently learning Full Stack Development at NewTech Academy Bootcamp
-- 👯 I’m looking to get a job and/or to collaborate on front-end projects
-- 📫 How to reach me: anghel.ergosum@gmail.com
-- ⚡ Skills: HTML, CSS, SASS/SCSS, Tailwind CSS, JavaScript, TypeScript
-- 🤔 I will study: React, Angular, Firebase, Node.js, MongoDB
+- 🔭 Aspiring full-stack web developer
+- 🌱 Currently studying Full Stack Development at NewTech Academy Bootcamp
+- 👯 Looking to get a job and/or to collaborate on front-end projects
+- 📫 Reach me at anghel.ergosum@gmail.com
+- ⚡ Current kills: HTML, CSS, SASS/SCSS, Tailwind CSS, JavaScript, TypeScript
+- 🤔 Will be studying: React, Angular, Firebase, Node.js, MongoDB
