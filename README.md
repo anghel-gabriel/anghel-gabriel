@@ -7,4 +7,4 @@
 - 👯 I’m looking to get a job and/or to collaborate on front-end projects
 - 📫 How to reach me: anghel.ergosum@gmail.com
 - ⚡ Skills: HTML, CSS, SASS/SCSS, Tailwind CSS, JavaScript, TypeScript
-- 🤔 I will be study: React, Angular, Firebase, Node.js, MongoDB
+- 🤔 I will study: React, Angular, Firebase, Node.js, MongoDB
