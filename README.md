@@ -7,5 +7,5 @@
 - 👯 Looking to get a job and/or to collaborate on front-end projects
 - 📫 Reach me at anghel.ergosum@gmail.com
 - ⚡ Current skills: HTML, CSS, SASS/SCSS, Tailwind CSS, JavaScript, TypeScript, Git
-- 🔧 Tools used: Visual Studio Code, WebStorm, ClickUp, Trello, draw.io, Notion, Figma, GitHub Desktop
+- 🔧 Tools I use/d: Visual Studio Code, WebStorm, ClickUp, Trello, draw.io, Notion, Figma, GitHub Desktop
 - 🤔 Will be studying: React, Angular, Firebase, Node.js, MongoDB
