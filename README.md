@@ -3,7 +3,7 @@
 
 
 - 🔭 Aspiring full-stack web developer
-- 🌱 Currently studying Full Stack Development at NewTech Academy Bootcamp
+- 🌱 Currently studying Full Stack Web Development at NewTech Academy Bootcamp
 - 👯 Looking to get a job and/or to collaborate on front-end projects
 - 📫 Reach me at anghel.ergosum@gmail.com
 - ⚡ Current skills: HTML, CSS, SASS/SCSS, Tailwind CSS, JavaScript, TypeScript, Git
