@@ -1,12 +1,17 @@
 ### Hi there 👋
 
 
-
+- 🌱 Frontend Developer
 - 🔭 Aspiring full-stack web developer
-- 🌱 Currently studying Full Stack Web Development at NewTech Academy Bootcamp
 - 👯 Open to work & collaborate on front-end projects
 - 📫 Reach me at anghel.ergosum@gmail.com
-- ⚡ Skills: HTML, CSS, SASS/SCSS, Tailwind CSS, JavaScript, Git
-- 🔪 Sharpening my skills in: TypeScript, Angular, React
-- 🔧 Tools I use/d: Visual Studio Code, WebStorm, ClickUp, Trello, draw.io, Notion, Figma, GitHub Desktop
-- 🤔 Will be studying: Firebase, Node.js, MongoDB
+
+<br>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anghel-gabriel/">
+    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,angular,react,vite,firebase,git,github,vscode&perline=7" />
+  </a>
+</p>
+
+
