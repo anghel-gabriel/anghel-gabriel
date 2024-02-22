@@ -1,17 +1,23 @@
-### Hi there 👋
+# Hi there 👋
+
+Fascinated by both art and science, I've found my peace between lines of code. Creativity helps me 'compose,' while a critical eye for detail and a problem-solving mindset aid in my endeavors. Describing myself, I am immensely passionate and consistently the hardest worker in any room.
+
+## 🧑🏻‍🎓 Experience
+- Frontend Developer at <a href="https://www.linkedin.com/company/secretcode/">SecretCode</a> [2023 - current]
+
+## 🛠️ Technologies
+- HTML, CSS, JavaScript
+- SCSS/SASS, Tailwind CSS, PrimeNG, NextUI, other UI libraries
+- TypeScript
+- Angular, RxJS
+- React
+- Firebase
+- Git, GitHub
 
 
-- 🌱 Frontend Developer
-- 🔭 Aspiring full-stack web developer
-- 👯 Open to work & collaborate on front-end projects
-- 📫 Reach me at anghel.ergosum@gmail.com
+## 📭 Contact
+You can reach me at anghel.ergosum@gmail.com
 
-<br>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/anghel-gabriel/">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,angular,react,vite,firebase,git,github,vscode&perline=7" />
-  </a>
-</p>
 
 
