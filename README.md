@@ -17,7 +17,7 @@ Fascinated by both art and science, I've found my peace between lines of code. C
 
 
 ## 📭 Contact
-You can reach me at anghel.ergosum@gmail.com
+You can reach me at anghel.ergosum@gmail.com.
 
 
 
