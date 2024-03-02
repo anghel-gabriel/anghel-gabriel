@@ -3,6 +3,7 @@
 Fascinated by both art and science, I've found my peace between lines of code. Creativity helps me 'compose,' while a critical eye for detail and a problem-solving mindset aid in my endeavors. Describing myself, I am immensely passionate and consistently the hardest worker in any room.
 
 ## 🧑🏻‍🎓 Experience
+- Assistant Trainer at <a href="https://www.newtech.ro">NewTech Academy</a> [2024 - current]
 - Frontend Developer at <a href="https://www.linkedin.com/company/secretcode/">SecretCode</a> [2023 - current]
 - Fullstack Development BootCamp at <a href="https://www.newtech.ro">NewTech Academy</a> [2023 - 2024]
 
